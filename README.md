@@ -1,2 +1,6 @@
-# GAN_Minist_keras
- a GAN to generate Minist base on Keras
+该项目是基于keras利用GAN生成minist数据集：
+
+1. 算法原理及具体流程详见"GAN生成mnist项目流程.pdf"；
+2. 具体代码详见“GAN.py”;
+3. mnist数据集需另行下载；
+4. 训练图片、生成图片、存放的文件夹需新建。
